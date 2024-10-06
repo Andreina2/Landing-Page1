@@ -1,5 +1,35 @@
+.contenedor1 {
+    display: flex;
+    justify-content:center;
+    align-items:center
+}
+
+
+h2, img, .contenedor2{
+    display: flex;
+    justify-content:center;
+    align-items:center
+}
+
+
+.contenedor2 {
+    display: flex;
+    justify-content:center;
+    align-items:center
+}
+
+
+h1,p, li{
+    display: flex;
+    justify-content:center;
+    align-items:center
+}
+
+
+
 body {
     background-color: peachpuff;
+    font-family: sans-serif;
 }
 
 h1 {
@@ -12,6 +42,14 @@ li {
 
 
 p {
-    color: black;g
+    color: black;
     
+}
+
+
+footer {
+    font-family: sans-serif;
+    display: flex;
+    justify-content:center;
+    align-items:end
 }
