@@ -12,13 +12,6 @@ h2, img, .contenedor2{
 }
 
 
-.contenedor2 {
-    display: flex;
-    justify-content:center;
-    align-items:center
-}
-
-
 h1,p, li{
     display: flex;
     justify-content:center;
